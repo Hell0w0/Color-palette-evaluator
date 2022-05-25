@@ -9,6 +9,6 @@ In this file put your color palette in RGB format with a space between the value
 
 Ex:
 
-95 148 211__
-81 192 138__
+95 148 211  
+81 192 138  
 228 87 46
